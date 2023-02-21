@@ -1,0 +1,72 @@
+{title: Luna de España}
+{columns: 2}
+{Define: E7 frets 0 2 0 1 0 0}
+
+{comment: Intro: [E7] [Am] [Dm] [E7] [Am] [E7] [Am] [Dm] [F] [E]}
+
+{start_of_tab: A}
+E|-----------------------
+B|-----------------------
+G|-----------------------
+D|-----------------------
+A|--------------------0--
+E|--0--1--3--1--0--1-----
+{end_of_tab}
+
+{start_of_verse: 1}
+La luna es una mujer[Am]
+[A7]Y por eso el sol de España[Dm] 
+[E7]Anda que bebe los vientos[Am]
+[Dm]Por si la [E7]luna le engaña[Am] 
+{end_of_verse: 1}
+
+{start_of_tab: B}
+E|-----------------------------------------
+B|-----------------------------------------
+G|-----------------------------------------
+D|--0--------------------------------------
+A|-----3--2--0--------------------------0--
+E|--------------3--1--0--1--3--1--0--1-----
+{end_of_tab}
+
+{start_of_verse: 2}
+Ahí le engaña porque... 
+Porque en cada anochecer[Am] 
+[A7]Después de que el sol se apaga[Dm]
+[E7]Sale la luna a la calle[Am]
+[F]Con andares [E]de gitana[Am] [G]
+{end_of_verse: 2}
+
+{start_of_chorus}  
+[C]Cuando la luna sale, sale de noche[F]
+Un amante la [Fm]aguarda en cada reja[C]
+Luna, luna de España, cascabelera[G7]
+Luna de ojos azules, cara morena[C] 
+
+{comment: [F] [G7]}
+
+[C]Y se oye a cada paso la voz de un hombre[F]
+Que a la luna que [Fm]pasa le da su queja[C]
+Luna, luna de España, cascabelera[G7]
+Luna de ojos azules, cara morena[C] 
+{end_of_chorus}
+
+{Comment: Musica (Intro + acordes de primeros versos)}
+
+{start_of_chorus}  
+[C]Cuando la luna sale, sale de noche[F]
+Un amante la [Fm]aguarda en cada reja[C]
+Luna, luna de España, cascabelera[G7]
+Luna de ojos azules, cara morena[C] 
+
+{comment: [F] [G7]}
+
+[C]Y se oye a cada paso la voz de un hombre[F]
+Que a la luna que [Fm]pasa le da su queja[C]
+Luna, luna de España, [G7]cascabelera; 
+Luna de ojos azules, cara [F]morena[C]
+{end_of_chorus}
+
+{Comment: El final es con tremolo}
+[F]Luna de España[Fm]...
+Mujer[C]...

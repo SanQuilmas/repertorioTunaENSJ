@@ -1,0 +1,64 @@
+{title: Pasacalles de Garita}
+{columns: 2}
+{Define: E7 frets 0 2 0 1 0 0}
+{Define: C#m7 base-fret 4 frets 1 1 3 1 2 1}
+{comment: Intro: [D] [C#m7] [D] [A] [E7] [D] [E] [A] [E] [A]}
+
+{start_of_verse}
+[Am]México de madrugada
+[Dm]Duerme bañada de luna[Am]
+[E7]Cuando alegre por sus calles[Am]
+[B7]Cantando pasa la tuna[E7]
+{end_of_verse}
+
+{start_of_verse}
+[Am]Bajo el balcón se detiene [D7]
+[G7]Y se detiene hasta el viento[C]
+[Dm]Para escuchar las cancione[Am]s
+[B7]Que dicen con dulce acento [E7]
+{end_of_verse}
+
+{start_of_chorus}
+[A]Mujer llena de ilusión 
+Que surges de entre las flores[E7]
+Que cuelgan de tu balcón 
+A escuchar nuestras canciones [A]
+
+¡Ay mujer de ojos oscuros!
+[D]¡Llenos de encanto y misterio! [C#m7]
+[D]Hoy por ti canta la tuna [A]
+Hoy por ti canta la tuna[E7]
+
+[Dm]La tuna d[E]e magis[A]terio[E][A]
+{end_of_chorus}
+
+{start_of_verse}
+[Am]El balcón se quedó solo 
+[Dm]Pero la canción quedo [Am]
+[E7]Surgió haciéndose brillante [Am]
+[B7]Y en el cielo se prendió [E7]
+{end_of_verse}
+
+{start_of_verse}
+[Am]Comprendida en un lucero [Dm]
+[G7]Todas las noches saldrá [C]
+[Dm]Y al despuntar cada aurora [Am]
+[B7]A su oído canta[E7]rá
+{end_of_verse}
+
+{comment: Intermedio: [D] [C#m7] [D] [A] [E7] [D] [E] [A] [E] [A]}
+
+{start_of_chorus}
+[A]Mujer llena de ilusión 
+Que surges de entre las flores[E7]
+Que cuelgan de su balcón 
+A escuchar nuestras canciones [A]
+
+Ay mujer de ojos oscuros
+[D]Llenos de encanto y misterio [C#m7]
+[D]Hoy por ti canta la tuna [A]
+Hoy por ti canta la tuna[E7]
+
+[Dm]La tuna d[E]e magis[A]terio
+[Dm]La tuna d[E]e magis[A]terio.[E][A]
+{end_of_chorus}

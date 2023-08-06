@@ -1,0 +1,74 @@
+{title: La Martiniana}
+{columns: 2}
+{Define: E7 frets 0 2 0 1 0 0}
+{Define: C#7 base-fret 4 frets 1 1 3 1 3 1 fingers 1 1 3 1 4 1}
+{comment: Intro: [Em] [B7] [Em] [B7]}
+
+{start_of_verse}
+N[Em]iña, c[B7]uando yo mue[Em]ra
+No llores so[C]bre mi tu[B7]mba
+¡Toca sones alegres, mamá!
+Cántame "La sand[Em]unga"
+{end_of_verse}
+
+{start_of_verse}
+N[Em]iña, c[B7]uando yo mue[Em]ra
+No llores so[C]bre mi tu[B7]mba
+¡Toca sones alegres, mamá!
+Cántame "La sand[Em]unga"
+{end_of_verse}
+
+{start_of_chorus}
+No me llores, no[B7](no me llores no)
+No me llores, no [Em](no me llores no)
+Porque si ll[C]oras yo pe[B7]no
+En camb[Am]io, si tú me ca[Em]ntas
+Yo siempre v[B7]ivo y nunca mu[Em]ero x2[E7]
+{end_of_chorus}
+
+{start_of_verse}
+[Em]Lucero [B7]de la mañ[Em]ana
+El rey de to[C]dos los so[B7]nes
+Canta "La martiniana", ¡ay, mamá!
+Que rompe los cora[Em]zones
+{end_of_verse}
+
+{start_of_verse}
+[Em]Lucero [B7]de la mañ[Em]ana
+El rey de to[C]dos los so[B7]nes
+Canta "La martiniana", ¡ay, mamá!
+Que rompe los cora[Em]zones
+{end_of_verse}
+
+{start_of_chorus}
+No me llores, no[B7]
+No me llores, no[Em]
+Porque si ll[C]oras yo pe[B7]no
+En ca[Am]mbio, si tú me ca[Em]ntas
+Yo siempre vi[B7]vo y nunca muer[Em]o x2[E7]
+{end_of_chorus}
+
+{start_of_verse}
+[F#m]Si quieres q[C#7]ue te recuer[F#m]de
+Si quieres que no te ol[C#7]vide
+Canta sones del alma, ¡ay Mamá!
+Música que no mu[F#m]ere
+{end_of_verse}
+
+{start_of_verse}
+[F#m]Si quieres q[C#7]ue te recuer[F#m]de
+Si quieres que no te ol[C#7]vide
+Canta sones del alma, ¡ay Mamá!
+Música que no mu[F#m]ere
+{end_of_verse}
+
+{start_of_chorus}
+No me llores, no[C#7]
+No me llores, n[F#m]o
+Porque si lloras yo pe[C#7]no
+
+En camb[Bm]io, si tú me ca[F#m]ntas
+Yo siempre v[C#7]ivo y nunca m[F#m]uero[F#7]
+En camb[Bm]io, si tú me ca[F#m]ntas
+Yo siempre v[C#7]ivo y nunca m[F#m]uero[F#7]
+{end_of_chorus}
